@@ -1,0 +1,120 @@
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\KarelSeviceFormApp.exe.config
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\KarelSeviceFormApp.exe
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\KarelSeviceFormApp.pdb
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Quartz.dll
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\RestSharp.dll
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Buffers.dll
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Memory.dll
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Quartz.xml
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\RestSharp.xml
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Buffers.xml
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Memory.xml
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.AssemblyReference.cache
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.Properties.Resources.resources
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.GenerateResource.cache
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.CoreCompileInputs.cache
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.CopyComplete
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.exe
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.pdb
+C:\Users\tronu\OneDrive\Masaüstü\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.Form1.resources
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\KarelSeviceFormApp.exe.config
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\KarelSeviceFormApp.exe
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\KarelSeviceFormApp.pdb
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Quartz.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\RestSharp.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Quartz.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\RestSharp.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.Form1.resources
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.exe
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.pdb
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\KarelSeviceFormApp.exe.config
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\KarelSeviceFormApp.exe
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\KarelSeviceFormApp.pdb
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Quartz.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\RestSharp.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Quartz.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\RestSharp.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.Form1.resources
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.exe
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.pdb
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\KarelSeviceFormApp.exe.config
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\KarelSeviceFormApp.exe
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\KarelSeviceFormApp.pdb
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Quartz.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\RestSharp.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\Quartz.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\RestSharp.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.Form1.resources
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.exe
+C:\Users\Lenovo\Desktop\windowsFormAppAutoNumberSend-main - Kopya - Kopya\windows form app\KarelSeviceFormApp\KarelSeviceFormApp\obj\Debug\KarelSeviceFormApp.pdb
